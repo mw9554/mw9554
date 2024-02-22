@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **hi@whgan.eu.org**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3>Languages and Tools:</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,vercel,vite,supabase,styledcomponents,sass,regex,prisma,powershell,planetscale,mysql,md,firebase,express,emotion,electron,cloudflare"/>
