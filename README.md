@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gan</h1>
 <h3 align="center">A dude who loves programming</h3>
 
-- 🔭 I’m currently working on [whgan.eu.org](whgan.eu.org)
+- 🔭 I’m currently working on [whgan.eu.org](https://whgan.eu.org)
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 Part of my projects are available at [whgan.eu.org/projects](whgan.eu.org/projects)
+- 👨‍💻 Part of my projects are available at [whgan.eu.org/projects](https://whgan.eu.org/projects)
 
-- 📝 I regularly write articles on [whgan.eu.org/blog](whgan.eu.org/blog)
+- 📝 I regularly write articles on [whgan.eu.org/blog](https://whgan.eu.org/blog)
 
 - 💬 Ask me about **react, vue**
 
