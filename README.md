@@ -16,7 +16,7 @@
 <h3>Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,vercel,vite,supabase,styledcomponents,sass,regex,prisma,powershell,planetscale,mysql,md,firebase,express,emotion,electron,cloudflare"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,git,jenkins,nodejs,django,docker,express,flask,postgres,postman,py,tailwind,vscode,visualstudio,vercel,vite,supabase,styledcomponents,sass,prisma,powershell,planetscale,mysql,md,firebase,express,emotion,cloudflare,notion,pinia,pnpm,redux,vue"/>
 </p>
 
 ### 📊 Weekly development breakdown
